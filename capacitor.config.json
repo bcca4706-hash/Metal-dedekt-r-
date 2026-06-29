@@ -1,0 +1,8 @@
+{
+  "appId": "com.metal.dedektoru",
+  "appName": "Metal Dedektörü",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
